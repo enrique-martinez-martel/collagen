@@ -2,13 +2,18 @@
 Collagen,  the optimization of data center cooling with AI.
 
 
+Made by:
+-Genis Bonet García
+-Giorgi Mikautadze
+-Akram Aoulad Ben Taib Radi
+-Enrique Martínez Martel
+
+
 ## How to execute our programn.
 
 1.
 2.
 3.
-4.
-
 
 
 
